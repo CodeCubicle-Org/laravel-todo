@@ -40,6 +40,6 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-## Working with the Project Team
+# Working with the Project Team
 
 The core project contributors are based in the Philippines. To join our private group chat on facebook, please file an issue stating your facebook username to join the group.
