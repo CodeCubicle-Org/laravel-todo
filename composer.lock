@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "488767f2238b19c1e07c22dadcbe5a67",
+    "content-hash": "a4ea68f3166169ec880b58b6f5688886",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -649,34 +649,6 @@
             ],
             "description": "Laravel 5 frontend preset for Twitter Bootstrap 4",
             "time": "2018-02-09T15:56:24+00:00"
-        },
-        {
-            "name": "laravelph/laravel-todo",
-            "version": "dev-master",
-            "dist": {
-                "type": "path",
-                "url": "packages/laravelph/laravel-todo",
-                "reference": "57a797f9d60f6dabd7096953eea9dc3751bc24bd",
-                "shasum": null
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "LaravelPH\\LaravelToDo\\ToDoServiceProvider"
-                    ]
-                }
-            },
-            "authors": [
-                {
-                    "name": "Ryan Bañaria",
-                    "email": "b.softnayr@gmail.com"
-                }
-            ],
-            "description": "A ToDo and \"Getting Things Done\" task manager built on latest Laravel as a package ",
-            "transport-options": {
-                "symlink": true
-            }
         },
         {
             "name": "league/flysystem",
@@ -4027,9 +3999,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "laravelph/laravel-todo": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
