@@ -43,3 +43,10 @@ This Code of Conduct is adapted from the Contributor Covenant, version 1.4, avai
 # Working with the Project Team
 
 The core project contributors are based in the Philippines. To join our private group chat on facebook, please file an issue stating your facebook username to join the group.
+
+# Submitting Your Code on GitHub
+There are just a few things to remember so far when submitting your code here on Github.
+* Always write a description in your commits and most of all a really verbose and comprehensive description for all your **PullRequests**! It will help to avoid a lot of asking back and lengthy discussions to find out what you were thinking. And it will get your PR accepted much quicker
+* Always write **unit tests** for every feature, not necessarily for every single function though. We want to speed up install and test processes and make this piece of code more reliable in general.
+* Add proper and very comprehensive **code documentation** so everyone after you (including you in a few months) can understand your code quickly without the need to ask back.
+* **Format your code nicely** and for this the use of a professional IDE like phpstorm can help a lot!
