@@ -12,6 +12,7 @@ We're gonna build the documentation for ourt development process, and the develo
 * Vue.js (*JS*) >= 2.5.16
 * Bootstrap v4 (basic CSS only)
 * MySQL (*SQL*) >= v5.7
+* [Behat](http://behat.org/en/latest/guides.html) (*Unit Test*) >= 3.4
 
 ## Resources
 * [Laravel documentation for version 5.5](https://laravel.com/docs/5.5/)
